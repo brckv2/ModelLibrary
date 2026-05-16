@@ -1,0 +1,14 @@
+{
+  "title": "Luigi Model Library",
+  "description": "Premade OBJ/FBX packs",
+  "entries": [
+    {
+      "name": "Luigi Reborn",
+      "author": "brckv2",
+      "summary": "Animated model pack",
+      "thumbnailUrl": "https://raw.githubusercontent.com/brckv2/sun/main/thumbnails/luigireborn.png",
+      "pageUrl": "https://github.com/brckv2/sun/tree/main/packs",
+      "downloadUrl": "https://raw.githubusercontent.com/brckv2/sun/main/packs/luigireborn.zip"
+    }
+  ]
+}
